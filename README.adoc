@@ -1,16 +1,11 @@
-:url-home: https://asciidoctor.org
-:link-docs: https://asciidoctor.org/docs[documentation]
-:summary: AsciiDoc is a mature, plain-text document format for \
-       writing notes, articles, documentation, books, and more. \
-       It's also a text processor & toolchain for translating \
-       documents into various output formats (i.e., backends), \
-       including HTML, DocBook, PDF and ePub.
-:checkedbox: pass:normal[{startsb}&#10004;{endsb}]
+# Document Title (Level 0)
 
-Check out {url-home}[Asciidoctor]!
+## Section Level 1
 
-{summary}
+### Section Level 2
 
-Be sure to read the {link-docs} too!
+#### Section Level 3
 
-{checkedbox} That's done!
+##### Section Level 4
+
+###### Section Level 5
