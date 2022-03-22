@@ -9,11 +9,3 @@
 ##### Section Level 4
 
 ###### Section Level 5
-
-```ruby
-require 'sinatra'
-
-get '/hi' do
-  "Hello World!"
-end
-```
